@@ -6,7 +6,8 @@
     <apex:attribute name="Icon1" description="" type="String" required="true"/>
     <apex:form >
  	<head> 
-		
+ 	<!-- SAMPLE -->
+		 
             
         
 		<script>
